@@ -1,13 +1,13 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
 
 # InspoQuotes
 
 
-## What you will create
+## What I create
 
 InspoQuotes is a freemium app that gives some free inspiration and a lot of paid inspiration.  
 
-## What you will learn
+## What I learn
 
 * How to setup new in-app purchases on App Store Connect
 * How to use the StoreKit API to allow users to purchase premium content
@@ -17,7 +17,7 @@ InspoQuotes is a freemium app that gives some free inspiration and a lot of paid
 
 
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete App Developement Bootcamp.
 
-![End Banner](Documentation/readme-end-banner.png)
+
 
